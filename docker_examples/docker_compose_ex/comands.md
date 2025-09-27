@@ -7,7 +7,6 @@ docker compose up -d
 
 ### Полезные команды:
 
-
 ```shell
 docker compose  stop  # остановить все сервисы.
 docker compose  rm  # удалить все сервисы.
