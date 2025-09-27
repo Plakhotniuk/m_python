@@ -1,0 +1,6 @@
+FROM my_python_image
+
+COPY my_app.py ./
+
+CMD ["python3", "my_app.py"]
+
